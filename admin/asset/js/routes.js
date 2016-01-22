@@ -1,7 +1,7 @@
 //This file shows the routing for all the clicks
 
 $(document).ready(function(){
-	console.log("route");
+	console.log("route changing..");
 	//Route to Home
 	$(".home").click(function(){
 		$(".responseHolder").html("");
